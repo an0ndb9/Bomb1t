@@ -20,7 +20,7 @@ Example:
 python bombit.py mark1337@gmail.com
 ```
 
-![usage](../media/images/winni.png)
+![usage](win.png)
 
 ## Additional Info:
 This project is not intended for any malicious purpose ! While looking for bugs in a website, I came to this vulnerable API endpoint where rate limiting is absent ! 
